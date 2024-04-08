@@ -1,7 +1,7 @@
 <h3 align="center"> Hyub Kim </h3>
 
 <p align="center"><i>Master of Statistics and Data Science, Yonsei</i></p>
-<p align="center"><i>Bachelor of Statistics & Economics (2nd Major), HUFS</i></p>
+<p align="center"><i>Bachelor of Statistics & Economics (Double Major), HUFS</i></p>
 
 ---
 
