@@ -1,3 +1,4 @@
+<div align="center">
 <h2 align="center"> Hyub Kim  </h2>
 <h3 align="center"> 🗣️ Data Communicator</h3>
 <h4 align="center"> M.S. Statistics and Data Science, Yonsei </h4>
@@ -94,3 +95,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyubb)](https://solved.ac/hyubb/)
 ![Hyub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyubbbb&hide=contribs,prs&show_icons=true&theme=github_dark)
+
+</div>
