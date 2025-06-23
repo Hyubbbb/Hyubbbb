@@ -19,9 +19,8 @@
 ---
 
 ### 🔭 요즘은 이런 일들을 하고 있어요.
-<p align="center"> 1. SEC 10-K 재무제표 파싱 파이프라인 구축 (with LLMs) <p>
-<p align="center"> 2. Riot API를 활용한 데이터 수집 파이프라인 구축 및 대시보드 생성 <p>
-<p align="center"> 3. AWS 기반 불량률 예측 모델 MLOps 파이프라인 구축 <p>
+<p align="center"> 1. Text2SQL AI Agent 개발 (ReFoRCE) <p>
+<p align="center"> 2. SEC 10-K 재무제표 파싱 파이프라인 구축 (with LLMs) <p>
 
 ---
 
@@ -35,9 +34,9 @@
   </a>
 </p>
 
-<p align="center"> 🐼 Pandas를 활용한 자유로운 데이터 전처리가 가능해요.<p>
 <p align="center"> 🔍 정규표현식을 이용한 텍스트 데이터 처리에 자신 있어요.<p>
-<p align="center"> 🤖 Scikit-Learn과 🔥 PyTorch를 사용한 머신러닝 및 딥러닝 모델 구현 경험이 있어요. <p>
+<p align="center"> 🤖 AI Agent 코드 구조를 이해하고, 환경에 맞추어 커스터마이징 해본 경험이 있어요. <p>
+<p align="center"> 🔥 Scikit-Learn과 PyTorch를 사용한 머신러닝 및 딥러닝 모델 구현 경험이 있어요. <p>
 
 ---
 
