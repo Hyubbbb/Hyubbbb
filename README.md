@@ -4,7 +4,8 @@
 
 **ML Engineer**
 
-M.S. Statistics & Data Science, Yonsei University
+M.S. Statistics & Data Science, @Yonsei University
+B.S. Statistics & Economics, @HUFS
 
 </div>
 
