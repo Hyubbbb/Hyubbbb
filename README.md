@@ -18,6 +18,15 @@ B.S. Statistics & Economics, @HUFS
 
 데이터 마트 설계부터 ML/통계 모델링, FastAPI 서빙, Docker 배포, MLflow 기반 모델 관리까지 end-to-end ML 파이프라인을 구축해 본 경험이 있습니다.
 
+### Experience
+
+- **F&F** — ML Engineer (2025.05 ~ Present)
+  - MLB, Discovery 등 5개 브랜드 대상 브랜드 단위 / 매장 단위 수요 예측
+- **Yonsei Uniersity** — 석사 연구원 (2024.01 ~ 2025.06)
+  - LLM 기반 사업보고서 자동 파싱 알고리즘 개발 및 기업 가치 평가 자동화 시스템 개발
+- **통계청** — 연구보조원 (2023.05 ~ 2023.12)
+  - 가구유형 및 가구원수별 추계가구 작성방법 개선방안 연구
+
 ### Tech Stack
 
 <p>
