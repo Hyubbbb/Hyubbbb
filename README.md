@@ -39,8 +39,8 @@ B.S. Statistics & Economics, @HUFS
 
 | Project | Description | Keywords |
 |---------|-------------|----------|
-| SC 수요 예측 | ML/TSB+ML 기반 수요 예측 · 데이터 마트 설계 · FastAPI 서빙 · MLflow | Demand Forecasting, MLOps |
-| [T2S_reforce](https://github.com/Hyubbbb/T2S_reforce) | Text2SQL AI Agent (ReFoRCE) | LLM Agent, Text2SQL |
+| Demand Forecasting | ML/TSB+ML 기반 수요 예측 · 데이터 마트 설계 · FastAPI 서빙 · MLflow | Demand Forecasting, MLOps |
+| [Text2SQL Agent](https://github.com/Hyubbbb/T2S_reforce) | [ReFoRCE](https://github.com/Snowflake-Labs/ReFoRCE) 프레임워크 기반 사내 Text2SQL Agent PoC 진행 | LLM Agent, Text2SQL |
 | [Super Duper](https://hyubb.notion.site/Super-Duper-Video-to-Shop-1ac0de90854f806caa2cd6a3f1055f1e?pvs=4) | 음성 기반 Video-to-Shop 추천 서비스 **SKT FLY AI 우수상** | Multi-modal AI |
 | [화성시 의료 접근성](https://hyubb.notion.site/5ce9fddc55744d9d8b6b271a27a54c48?pvs=4) | 도보 의료 접근성 지수 설계 **공공데이터 우수상** | Spatial Analysis |
 | [The Blockbuster Paradox](https://hyubb.notion.site/The-Blockbuster-Paradox-11e0de90854f8065ba02e9a7f341d5fb?pvs=4) | 블록버스터 동시기 개봉 영향 실증 분석 **EPOCH Datathon 대상** | Causal Inference |
