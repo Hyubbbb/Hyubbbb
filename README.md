@@ -65,6 +65,5 @@ B.S. Statistics & Economics, @HUFS
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyubb)](https://solved.ac/hyubb/)
-![Hyub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyubbbb&hide=contribs,prs&show_icons=true&theme=github_dark)
 
 </div>
